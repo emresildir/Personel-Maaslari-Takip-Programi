@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT247", "IPT247.csproj", "{2232FD83-B607-46A4-8EE2-5293115B538F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2232FD83-B607-46A4-8EE2-5293115B538F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2232FD83-B607-46A4-8EE2-5293115B538F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2232FD83-B607-46A4-8EE2-5293115B538F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2232FD83-B607-46A4-8EE2-5293115B538F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA8F9FC4-360C-48A8-A9EF-418A959D8E0B}
+	EndGlobalSection
+EndGlobal
